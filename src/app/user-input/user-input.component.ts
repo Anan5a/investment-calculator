@@ -27,5 +27,12 @@ export class UserInputComponent {
       duration: +this.enteredDuration,
     })
 
+    this.enteredInitialInvestment = '0'
+    this.enteredAnnualInvestment = '0'
+    this.enteredExpectedReturn = '5'
+    this.enteredDuration = '10'
+
+
+
   }
 }
