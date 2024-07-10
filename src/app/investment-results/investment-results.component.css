@@ -12,6 +12,8 @@ table {
   table-layout: fixed;
   border-spacing: 1rem;
   text-align: right;
+  background: linear-gradient(180deg, #307e6c, #2b996d);
+  border-radius: 0.4rem;
 }
 
 table thead {
